@@ -5,7 +5,7 @@
 
 ### `> CS Student · Cybersecurity · IT · Data`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=4DB8FF&center=true&vCenter=true&width=650&lines=Pentesting+%7C+Web+Vulnerability+Assessment;IT+Operations+%7C+Active+Directory+%7C+Endpoint+Management;AI%2FML+Research+%7C+Computer+Vision+%7C+YOLOv8;Building+at+the+intersection+of+security+and+AI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=4DB8FF&center=true&vCenter=true&width=650&lines=Pentesting+%7C+Web+Vulnerability+Assessment;IT+Operations+%7C+Active+Directory+%7C+Endpoint+Management;AI%2FML+Research+%7C+Computer+Vision+%7C+YOLOv8;Building+at+the+intersection+of+security+and+AI.)](https://git.io/typing-svg)
 
 </div>
 
