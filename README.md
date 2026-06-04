@@ -51,11 +51,11 @@ Location   : Toronto, Ontario
 
 ```bash
 $ whois ismail-ibrahim --contact
+
+GitHub    : github.com/II-git
+LinkedIn  : linkedin.com/in/ismail-ibrahim-797097349
+Email     : ismail.ibrahim2804@gmail.com
+Phone     : +1 905-483-7614
 ```
 
-| | |
-|---|---|
-| **GitHub** | [github.com/II-git](https://github.com/II-git) |
-| **LinkedIn** | [linkedin.com/in/ismail-ibrahim-797097349](https://linkedin.com/in/ismail-ibrahim-797097349) |
-| **Email** | [ismail.ibrahim2804@gmail.com](mailto:ismail.ibrahim2804@gmail.com) |
-| **Phone** | +1 905-483-7614 |
+---
