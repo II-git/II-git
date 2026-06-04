@@ -34,47 +34,6 @@ Location   : Toronto, Ontario
 
 ---
 
-## `// project`
-
-### 🔐 [web-vuln-assessment](https://github.com/II-git/web-vuln-assessment)
-> Burp Suite walkthroughs for PortSwigger Web Security Academy labs — documenting real exploitation techniques against intentionally vulnerable web applications.
-
-- **Business Logic (OWASP A04):** Manipulated `price` parameter via Burp Proxy to bypass client-side validation and authorize an unauthorized purchase
-- **Information Disclosure (OWASP A05):** Triggered verbose stack trace via Burp Repeater, exposing backend framework version (Apache Struts 2.3.31)
-
-`Burp Suite` `PortSwigger` `OWASP` `Proxy` `Repeater` `Web App Pentesting`
-
----
-
-## `// experience`
-
-### Enercare — IT Operations Intern
-`May 2025 – August 2025 · Markham, Ontario`
-
-```
-> Aggregated and mapped 1,300+ enterprise apps, users, and endpoints via SCCM and Intune
-  to model user-to-endpoint dependencies and assess Windows 11 migration readiness.
-
-> Built an HTML/CSS tracking dashboard to visualize deployment status (Ready / Not Ready /
-  In Progress) across all users, endpoints, and applications with searchable profiles.
-
-> Audited Active Directory access controls using ADAuditPlus, validating least-privilege
-  permissions for 200+ users during a GoAnywhere MFT server migration.
-```
-
-### M2M Tech — AI/ML Research Intern
-`March 2025 – May 2025 · Remote`
-
-```
-> Evaluated and curated 100+ computer-vision datasets for a YOLOv8-based smart home
-  surveillance system, improving threat detection accuracy for real-time monitoring.
-
-> Structured gemstone datasets to train a CV model for authenticating high-value assets
-  and detecting counterfeits, supporting fraud detection for a retail client.
-```
-
----
-
 ## `// arsenal`
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
@@ -96,24 +55,6 @@ Location   : Toronto, Ontario
 ![OpenCV](https://img.shields.io/badge/OpenCV-1A5276?style=flat-square&logo=opencv&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-003F87?style=flat-square&logoColor=white)
 
----
-
-## `// education & certs`
-
-```
-Toronto Metropolitan University
-B.Sc. (Hons) Computer Science · Sept 2024 – April 2027 · Dean's List 2024–25, 2025–26
-
-Coursework: Unix/C/C++, Data Structures, Operating Systems, Computer Security,
-            Networks, Web Systems, Data Mining, Database Systems
-
-[✅] Google Cybersecurity Certificate
-[✅] TryHackMe CyberStart Canada
-[🔄] CompTIA Security+ SY0-701 — In Progress, 2026
-```
-
----
-
 ## `// connect`
 
 ```bash
@@ -126,11 +67,3 @@ Phone     : +1 905-483-7614
 ```
 
 ---
-
-<div align="center">
-
-```
-> building at the intersection of security, infrastructure, and AI._
-```
-
-</div>
