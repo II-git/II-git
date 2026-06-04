@@ -1,17 +1,10 @@
 <!-- Ismail Ibrahim — GitHub Profile README -->
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=99999&color=4DB8FF&center=true&vCenter=true&width=600&height=80&lines=Ismail+Ibrahim" alt="Ismail Ibrahim" />
+</div>
 
-```
-██╗███████╗███╗   ███╗ █████╗ ██╗██╗     
-██║██╔════╝████╗ ████║██╔══██╗██║██║     
-██║███████╗██╔████╔██║███████║██║██║     
-██║╚════██║██║╚██╔╝██║██╔══██║██║██║     
-██║███████║██║ ╚═╝ ██║██║  ██║██║███████╗
-╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-```
-
-### `> Ismail Ibrahim · CS Student · Cybersecurity · IT · Data`
+### `> CS Student · Cybersecurity · IT · Data`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=4DB8FF&center=true&vCenter=true&width=650&lines=Pentesting+%7C+Web+Vulnerability+Assessment;IT+Operations+%7C+Active+Directory+%7C+Endpoint+Management;AI%2FML+Research+%7C+Computer+Vision+%7C+YOLOv8;Building+at+the+intersection+of+security+and+AI.)](https://git.io/typing-svg)
 
@@ -34,7 +27,7 @@ Location   : Toronto, Ontario
 
 ---
 
-## `// arsenal`
+## `// skills`
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
