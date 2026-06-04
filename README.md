@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=99999&color=4DB8FF&center=true&vCenter=true&width=600&height=80&lines=Ismail+Ibrahim" alt="Ismail Ibrahim" />
-</div>
 
 ### `> CS Student · Cybersecurity · IT · Data`
 
