@@ -46,3 +46,16 @@ Location   : Toronto, Ontario
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-006FFF?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1A5276?style=flat-square&logo=opencv&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-003F87?style=flat-square&logoColor=white)
+
+## `// connect`
+
+```bash
+$ whois ismail-ibrahim --contact
+
+GitHub    : github.com/II-git
+LinkedIn  : linkedin.com/in/ismail-ibrahim-797097349
+Email     : ismail.ibrahim2804@gmail.com
+Phone     : +1 905-483-7614
+```
+
+---
