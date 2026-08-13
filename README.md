@@ -17,7 +17,7 @@
 $ cat about.txt
 
 Name       : Ismail Ibrahim
-University : Toronto Metropolitan University — B.Sc. Computer Science (Hons) · Expected April 2027
+University : Toronto Metropolitan University — B.Sc. Computer Science (Hons) · Expected October 2027
 Focus      : Cybersecurity · IT Infrastructure · Data
 Certs      : CompTIA Security+ SY0-701 · TryHackMe CyberStart Canada · Google Cybersecurity
 Awards     : Deans List 2024–2025, 2025–2026
