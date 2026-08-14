@@ -17,9 +17,9 @@
 $ cat about.txt
 
 Name       : Ismail Ibrahim
-University : Toronto Metropolitan University — B.Sc. Computer Science (Hons) · Expected April 2027
+University : Toronto Metropolitan University — B.Sc. Computer Science (Hons) · Expected October 2027
 Focus      : Cybersecurity · IT Infrastructure · Data
-Certs      : CompTIA Security+ SY0-701 (In Progress) · Google Cybersecurity · TryHackMe CyberStart CA
+Certs      : CompTIA Security+ SY0-701 · TryHackMe CyberStart Canada · Google Cybersecurity
 Awards     : Deans List 2024–2025, 2025–2026
 Location   : Toronto, Ontario
 ```
@@ -74,6 +74,7 @@ GitHub    : github.com/II-git
 LinkedIn  : linkedin.com/in/ismail-ibrahim-797097349
 Email     : ismail.ibrahim2804@gmail.com
 Phone     : +1 905-483-7614
+TryHackMe : ismail.ibrahim384
 ```
 
 ---
