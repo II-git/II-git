@@ -26,7 +26,7 @@ Location   : Toronto, Ontario
 
 ---
 
-## `// skills`
+## `// tech stack`
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
